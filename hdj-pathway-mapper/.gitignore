@@ -1,0 +1,9 @@
+node_modules
+.dist
+.dist-ssr
+dist
+.vite
+coverage
+playwright-report
+.git
+.DS_Store
